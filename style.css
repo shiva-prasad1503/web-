@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Asimovian&display=swap');
+#main {
+    min-height: 100vh; /* Full height for background */
+      background-image: url("./image.img/villagehomepage.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white;/* Makes text readable if the image is dark */
+    padding: 20px;
+} 
+body {  
+    margin: 0;
+    padding: 0;
+    font-family: 'Asimovian', sans-serif; /* Apply the font here */ }
+.container {
+    background: rgba(0, 0, 0, 0.3); /* Light transparency to improve text contrast */
+    padding: 20px;
+    border-radius: 20px;
+}
+
+
+
